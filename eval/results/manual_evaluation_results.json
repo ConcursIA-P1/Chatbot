@@ -1,0 +1,16 @@
+{
+    "faithfulness": [
+        1.0,
+        1.0,
+        0.6666666666666666
+    ],
+    "answer_relevancy": [
+        0.9540896679177475,
+        0.8573325809140743,
+        0.8928551394608686
+    ],
+    "evaluation_performance": {
+        "ragas_eval_latency_seconds": 41.9541699886322,
+        "ragas_eval_memory_mb": 1671.265625
+    }
+}

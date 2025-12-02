@@ -1,0 +1,30 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+langgraph
+
+# Vector database
+chromadb
+
+# Machine learning
+transformers
+torch
+sentence-transformers
+
+# Web framework
+streamlit
+
+# Data processing
+PyPDF2
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Utilities
+requests
+
+# Development
+pytest
